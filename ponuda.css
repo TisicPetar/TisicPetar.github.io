@@ -1,0 +1,55 @@
+
+
+  body {
+    background-color:#BAD7E9;
+  }
+
+  
+  body {
+    display: flex;
+    flex-direction: column;
+  }
+  
+    #header{
+        width: 100%;
+    }
+  #nav{
+    background-color: #2B3467;
+    color:#FCFFE7;
+    font-family: "Kanit";
+  }
+  #navbarNav{
+    background-color: #2B3467;
+    color:#FCFFE7;
+  }
+  #footer{
+    background-color: #2B3467;
+    color:#FCFFE7; 
+    width: 100%;
+    flex-shrink: 0;
+
+  }
+  #con{
+      background-color:#FCFFE7;
+      color:#2B3467;
+  }
+  #el{
+   
+    color:#FCFFE7;
+  }
+  #red{
+      color:#EB455F;
+  }
+  #dugme{
+    background-color: #2B3467;
+    color:#FCFFE7;
+    font-family: "Noto Sans";
+  }
+  #plaviText{
+      color: #2B3467;
+  }
+  #naslov{
+      font-family: "Kanit";
+      
+      color:#EB455F;
+  }
